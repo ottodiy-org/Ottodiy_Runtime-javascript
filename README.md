@@ -1,2 +1,2 @@
-# OttoLibrary-elk
+# Ottodiy_Runtime_Esp32-elk
 this project embeds the OttoLibrary-arduino into a subset JavaScript (elk) engine environment ...
